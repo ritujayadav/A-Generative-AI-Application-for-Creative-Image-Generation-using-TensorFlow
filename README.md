@@ -14,11 +14,7 @@ Generative Adversarial Networks consist of two neural networks - the Generator a
 
 ## Installation
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-
-## How to Use
-1. Run the  script to train the GAN on the MNIST dataset.
-2. The GAN will create and save the generated artwork in the `generated_images` folder.
+2. Install the required dependencies using `pip install`.
 
 
 ## Contributing
